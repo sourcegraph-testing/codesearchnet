@@ -6,3 +6,4 @@ ensures that Sourcegraph indexes this codesearch net repository, then runs the C
 results to the annotated line ranges.Hello World
 Hello World
 Hello World
+test
